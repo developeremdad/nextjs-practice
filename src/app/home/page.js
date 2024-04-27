@@ -12,6 +12,7 @@ const HomePage = async () => {
     },
   });
   const shoes = await res.json();
+
   return (
     <div>
       <h1>This is home page component</h1>

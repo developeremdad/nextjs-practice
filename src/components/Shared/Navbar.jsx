@@ -72,6 +72,9 @@ const Navbar = () => {
               <Link href="/gallery">Gallery</Link>
             </li>
             <li>
+              <Link href="/globalError">Error</Link>
+            </li>
+            <li>
               <details>
                 <summary>Dashboard</summary>
                 <ul className="p-2">
