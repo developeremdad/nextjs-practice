@@ -1,0 +1,109 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Nike Air Max 90",
+      "price": 99.99,
+      "description": "The Nike Air Max 90 is a classic sneaker known for its comfort and style.",
+      "url": "https://example.com/nike_air_max_90"
+    },
+    {
+      "id": 2,
+      "title": "Adidas Ultraboost",
+      "price": 109.99,
+      "description": "The Adidas Ultraboost is designed for maximum energy return and comfort.",
+      "url": "https://example.com/adidas_ultraboost"
+    },
+    {
+      "id": 3,
+      "title": "Vans Old Skool",
+      "price": 60,
+      "description": "The Vans Old Skool is a timeless skateboarding shoe with a classic stripe design.",
+      "url": "https://example.com/vans_old_skool"
+    },
+    {
+      "id": 4,
+      "title": "Converse Chuck Taylor All Star",
+      "price": 55,
+      "description": "The Converse Chuck Taylor All Star is an iconic sneaker recognized worldwide.",
+      "url": "https://example.com/converse_chuck_taylor_all_star"
+    },
+    {
+      "id": 5,
+      "title": "New Balance 990v5",
+      "price": 175,
+      "description": "The New Balance 990v5 offers a perfect blend of cushioning and stability.",
+      "url": "https://example.com/new_balance_990v5"
+    },
+    {
+      "id": 6,
+      "title": "Puma Suede Classic",
+      "price": 70,
+      "description": "The Puma Suede Classic is a versatile sneaker suitable for everyday wear.",
+      "url": "https://example.com/puma_suede_classic"
+    },
+    {
+      "id": 7,
+      "title": "Reebok Classic Leather",
+      "price": 75,
+      "description": "The Reebok Classic Leather is a timeless shoe with a soft leather upper.",
+      "url": "https://example.com/reebok_classic_leather"
+    },
+    {
+      "id": 8,
+      "title": "Asics Gel-Kayano 27",
+      "price": 160,
+      "description": "The Asics Gel-Kayano 27 provides stability and support for long-distance running.",
+      "url": "https://example.com/asics_gel_kayano_27"
+    },
+    {
+      "id": 9,
+      "title": "Brooks Ghost 13",
+      "price": 130,
+      "description": "The Brooks Ghost 13 offers a smooth ride and plush cushioning for neutral runners.",
+      "url": "https://example.com/brooks_ghost_13"
+    },
+    {
+      "id": 10,
+      "title": "Salomon Speedcross 5",
+      "price": 130,
+      "description": "The Salomon Speedcross 5 is a rugged trail running shoe with excellent grip.",
+      "url": "https://example.com/salomon_speedcross_5"
+    },
+    {
+      "id": 11,
+      "title": "Merrell Moab 2",
+      "price": 110,
+      "description": "The Merrell Moab 2 is a durable hiking shoe perfect for outdoor adventures.",
+      "url": "https://example.com/merrell_moab_2"
+    },
+    {
+      "id": 12,
+      "title": "Timberland 6-Inch Premium Boot",
+      "price": 190,
+      "description": "The Timberland 6-Inch Premium Boot is a waterproof and stylish boot for any occasion.",
+      "url": "https://example.com/timberland_6_inch_premium_boot"
+    },
+    {
+      "id": 13,
+      "title": "Dr. Martens 1460",
+      "price": 150,
+      "description": "The Dr. Martens 1460 is an iconic boot known for its durability and timeless style.",
+      "url": "https://example.com/dr_martens_1460"
+    },
+    {
+      "id": 14,
+      "title": "Fila Disruptor II",
+      "price": 65,
+      "description": "The Fila Disruptor II is a chunky sneaker with a retro-inspired design.",
+      "url": "https://example.com/fila_disruptor_ii"
+    },
+    {
+      "id": 15,
+      "title": "Saucony Jazz Original",
+      "price": 65,
+      "description": "The Saucony Jazz Original is a classic sneaker with a comfortable fit and stylish look.",
+      "url": "https://example.com/saucony_jazz_original"
+    }
+  ]
+}
